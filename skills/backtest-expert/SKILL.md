@@ -2,7 +2,7 @@
 name: backtest-expert
 description: Expert guidance for systematic backtesting of trading strategies. Use when developing, testing, stress-testing, or validating quantitative trading strategies. Covers "beating ideas to death" methodology, parameter robustness testing, slippage modeling, bias prevention, and interpreting backtest results. Applicable when user asks about backtesting, strategy validation, robustness testing, avoiding overfitting, or systematic trading development.
 ---
-
+ddddd
 # Backtest Expert
 
 Systematic approach to backtesting trading strategies based on professional methodology that prioritizes robustness over optimistic results.
