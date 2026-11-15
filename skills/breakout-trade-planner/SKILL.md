@@ -5,6 +5,7 @@ description: Generate Minervini-style breakout trade plans from VCP screener out
 
 # Breakout Trade Planner
 12345
+5678
 Generate trade plans from VCP screener output following Mark Minervini's breakout methodology. Calculate position sizes using worst-case entry prices, enforce portfolio risk limits, and output Alpaca API-compatible order templates.
 
 ## When to Use
